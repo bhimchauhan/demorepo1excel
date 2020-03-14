@@ -20,15 +20,15 @@ public class testcase1 extends Utility {
 		{
 			
 			
-			openBrowser();
-			
-			ObjectMethod.enterUsername();
-						
-			ObjectMethod.enterPassword();
-			
-			ObjectMethod.ClickLoginButton();
-			
-			Assert.fail();
+//			openBrowser();
+//			
+//			ObjectMethod.enterUsername();
+//						
+//			ObjectMethod.enterPassword();
+//			
+//			ObjectMethod.ClickLoginButton();
+//			
+//			Assert.fail();
 
 			
 		}
